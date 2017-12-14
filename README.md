@@ -1,0 +1,2 @@
+# fluent_python_train
+fluent_pythonで学習したことを反映
