@@ -1,0 +1,14 @@
+# Image
+*.jpg
+*.png
+*.pdf
+*.gif
+
+# virtualenv 
+bin/
+lib/
+include/
+
+# Python
+pip-selfcheck.json
+.Python
