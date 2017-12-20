@@ -10,5 +10,6 @@ lib/
 include/
 
 # Python
+__pycache__
 pip-selfcheck.json
 .Python
